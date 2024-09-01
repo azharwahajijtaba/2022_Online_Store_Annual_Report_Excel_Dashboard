@@ -1,4 +1,4 @@
-# 2022_Online_Store_Annual_Report_Excel_Using_Dashboard
+# 2022_Online_Store_Annual_Report_Dashboard_Using_Excel
 EXCEL DASHBOARD REPORT OF ONLINE STORE.
 
 • Analyzed a dataset of 31,000 records in Excel, focusing on data cleaning, processing, and analysis. 
